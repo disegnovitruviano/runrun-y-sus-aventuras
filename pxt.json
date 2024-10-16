@@ -1,5 +1,5 @@
 {
-    "name": "runRun - Joaquin",
+    "name": "Las aventuras de RunRun",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -14,7 +14,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.7.24",
+        "target": "1.12.56",
         "targetId": "arcade"
     },
     "supportedTargets": [
